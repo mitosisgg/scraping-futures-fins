@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 7012780441739,
+    "title": "F6 Blackstix",
+    "body_html": "<p>Futures Blackstix fins feature a V2 inside foil that generates and maintains speed throughout turns. The precision carbon and fiberglass matrix construction paired with specialized epoxy resin provides a very lightweight fin with incredible response, making your board feel livelier.</p>\n<ul>\n<li><span style=\"font-weight: 400;\">Template Category - Neutral (all-around | versatile)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Blackstix</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Speed Generating - 8.5</span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - All types | All conditions </span></li>\n<li><span style=\"font-weight: 400;\"> Size - Medium (125-175 lbs)</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-weight: 400;\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/iS-KQ2slsRo\" height=\"315\" width=\"560\" allowfullscreen=\"\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" frameborder=\"0\"></iframe></span></p>\n<ul></ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-10-17T14:26:21-07:00",
+    "handle": "f6-blackstix-1",
+    "updated_at": "2025-08-13T15:13:17-07:00",
+    "published_at": "2023-02-27T12:30:04-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Blackstix, Fins, Medium (125-175 lbs) (55-80 kgs), Neutral, Speed Generating (10-7) Springy. Fluid. Responsive., Thruster",
+    "variants": [
+      {
+        "id": 40960710541451,
+        "product_id": 7012780441739,
+        "title": "Default Title",
+        "price": "145.00",
+        "sku": "4665-469-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-10-17T14:26:22-07:00",
+        "updated_at": "2025-08-13T15:13:17-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9028074471563,
+        "product_id": 7012780441739,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 31405203652747,
+        "product_id": 7012780441739,
+        "position": 1,
+        "created_at": "2022-12-08T10:43:53-08:00",
+        "updated_at": "2022-12-08T10:44:00-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_blackstix_neutral_medium_side_surfboard_fins.jpg?v=1670525040",
+        "variant_ids": []
+      },
+      {
+        "id": 32251227734155,
+        "product_id": 7012780441739,
+        "position": 2,
+        "created_at": "2023-04-18T15:02:47-07:00",
+        "updated_at": "2023-04-18T15:02:48-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_F6_blackstix_in-board_surfboard_fins.jpg?v=1681855368",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 31405203652747,
+      "product_id": 7012780441739,
+      "position": 1,
+      "created_at": "2022-12-08T10:43:53-08:00",
+      "updated_at": "2022-12-08T10:44:00-08:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_blackstix_neutral_medium_side_surfboard_fins.jpg?v=1670525040",
+      "variant_ids": []
+    }
+  }
+}

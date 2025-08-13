@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4666096943243,
+    "title": "1-Shot Jig Plate",
+    "body_html": "<p>The 1-Shot jig plate is used to install the Futures 1-shot fin boxes (8.0\" and 10.75\") It has adjustable guide rails to fit most plunge router base plates.</p>\n<p>- Made with high quality aluminum<br>- Non- Slip Backing for secure routing <br>- CNC Machined in the USA<br></p>\n<p> </p>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2020-03-18T07:20:15-07:00",
+    "handle": "1-shot-jig-plate",
+    "updated_at": "2025-08-13T15:12:36-07:00",
+    "published_at": "2020-03-18T07:20:15-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 32889657917579,
+        "product_id": 4666096943243,
+        "title": "Default Title",
+        "price": "100.00",
+        "sku": "JIG-1-SHOT PLATE",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-18T07:20:15-07:00",
+        "updated_at": "2025-08-13T15:12:36-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 1978,
+        "image_id": null,
+        "weight": 4.36,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6061863895179,
+        "product_id": 4666096943243,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14774400057483,
+        "product_id": 4666096943243,
+        "position": 1,
+        "created_at": "2020-03-18T07:20:35-07:00",
+        "updated_at": "2020-03-19T16:14:34-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_individual_tools_1shot_jig_plate_surfboard_fins.jpg?v=1584659674",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 14774400057483,
+      "product_id": 4666096943243,
+      "position": 1,
+      "created_at": "2020-03-18T07:20:35-07:00",
+      "updated_at": "2020-03-19T16:14:34-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_individual_tools_1shot_jig_plate_surfboard_fins.jpg?v=1584659674",
+      "variant_ids": []
+    }
+  }
+}

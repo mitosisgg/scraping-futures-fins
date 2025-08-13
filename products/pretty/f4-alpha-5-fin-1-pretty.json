@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 6865884250251,
+    "title": "F4 Alpha 5-Fin",
+    "body_html": "<p><span style=\"font-weight: 400;\">The F4 Alpha 5-fin is a small sized set in the Neutral template category. </span><span style=\"font-weight: 400;\">Made in Huntington Beach, the Alpha product line combines Bureo’s NetPlus recycled fishing nets with Futures’ Compound 6 carbon and air infused technology, offering stability and control at top speed. </span><span style=\"font-weight: 400;\">The rear fins are QD2 3.75 with Symmetrical foil. The 5-fin set is designed to be ridden as either a Thruster or Quad set-up, packaged together for more versatility through your quiver. </span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Neutral (all-around | versatile)</span></li>\n<li>\n<span style=\"font-weight: 400;\"> Construction - </span><span style=\"font-weight: 400;\">Alpha (NetPlus)</span>\n</li>\n<li>\n<span style=\"font-weight: 400;\"> Ride Number - Balanced – 6.4 (tri) / </span><span style=\"font-weight: 400;\">6.9 (quad)</span>\n</li>\n<li>Suggested Wave Type - All types | All conditions</li>\n<li><span style=\"font-weight: 400;\"> Size - Small (95-135 lbs)</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-weight: 400;\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/cJMtqoqSgsk\" height=\"315\" width=\"560\" allowfullscreen=\"\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" frameborder=\"0\"></iframe></span></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-05-20T11:28:07-07:00",
+    "handle": "f4-alpha-5-fin-1",
+    "updated_at": "2025-08-13T15:13:08-07:00",
+    "published_at": "2022-07-20T07:05:51-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "5 Fin, Balanced (7-4) All Around., Fins, Fins: Alpha, Neutral, Small (95-135 lbs) (45-60 kgs)",
+    "variants": [
+      {
+        "id": 40321206386827,
+        "product_id": 6865884250251,
+        "title": "Default Title",
+        "price": "95.00",
+        "sku": "1140-337-50",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-05-20T11:28:07-07:00",
+        "updated_at": "2025-08-13T15:13:08-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 408,
+        "image_id": null,
+        "weight": 0.9,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 8840874328203,
+        "product_id": 6865884250251,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 29854247911563,
+        "product_id": 6865884250251,
+        "position": 1,
+        "created_at": "2022-05-20T11:29:29-07:00",
+        "updated_at": "2022-05-20T11:29:30-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_alpha_F4_5Fin_surfboard_fins.jpg?v=1653071370",
+        "variant_ids": []
+      },
+      {
+        "id": 30058780459147,
+        "product_id": 6865884250251,
+        "position": 2,
+        "created_at": "2022-06-15T16:57:20-07:00",
+        "updated_at": "2022-06-15T16:57:21-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_F4_alpha_5fin_inboard_surfboard_fins_fca83045-2918-4ef3-8cbd-84ce4c1197f7.jpg?v=1655337441",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 29854247911563,
+      "product_id": 6865884250251,
+      "position": 1,
+      "created_at": "2022-05-20T11:29:29-07:00",
+      "updated_at": "2022-05-20T11:29:30-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_alpha_F4_5Fin_surfboard_fins.jpg?v=1653071370",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4689552179339,
+    "title": "3/8\" ILT Box Tape",
+    "body_html": "<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<p>The 3M 3/8\" tape is the standard used by serious board builders. The tape covers the top of the Futures ILT Box ensuring resin does not enter during the lamination stage.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2020-03-22T22:52:45-07:00",
+    "handle": "3-8-ilt-box-tape",
+    "updated_at": "2025-08-13T15:12:45-07:00",
+    "published_at": "2020-03-22T22:52:45-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 32965223350411,
+        "product_id": 4689552179339,
+        "title": "Default Title",
+        "price": "10.00",
+        "sku": "TAPE 3/8 GREEN",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-22T22:52:45-07:00",
+        "updated_at": "2025-08-13T15:12:45-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 113,
+        "image_id": null,
+        "weight": 0.25,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6089857564811,
+        "product_id": 4689552179339,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 30064021831819,
+        "product_id": 4689552179339,
+        "position": 1,
+        "created_at": "2022-06-16T11:08:11-07:00",
+        "updated_at": "2022-06-16T11:08:12-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Hero_images_MFG_3-8_tape_green.jpg?v=1655402892",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 30064021831819,
+      "product_id": 4689552179339,
+      "position": 1,
+      "created_at": "2022-06-16T11:08:11-07:00",
+      "updated_at": "2022-06-16T11:08:12-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Hero_images_MFG_3-8_tape_green.jpg?v=1655402892",
+      "variant_ids": []
+    }
+  }
+}

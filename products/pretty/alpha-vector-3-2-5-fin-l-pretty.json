@@ -1,0 +1,128 @@
+{
+  "product": {
+    "id": 7472794009739,
+    "title": "Vector 3/2 Alpha 5-Fin (L)",
+    "body_html": "<p><b>WHAT IS A VECTOR FOIL<br></b><span>It is a proprietary Futures foil with a concave surface on the inside of the front fins, increasing surface area, water attachment, and lift.</span></p>\n<p><span><strong>WHAT IS A 3/2</strong><br></span>3/2 complements the Vector with an extra 3 degrees of cant and 2 degrees of toe, introducing a twist to the foil for improved planning angles in sharp turns, creating lift and hold deeper into the maneuver.</p>\n<p><b>PERFORMANCE BENEFITS OF THE VECTOR 3/2<br></b><span style=\"font-weight: 400;\" data-mce-fragment=\"1\">The Vector 3/2 is a Speed Generating fin, maximizing water attachment over multiple planing surfaces, resulting in lift and reduced drag. The concave surface and twist in the upper half provide a unique grip and projection sensation, delivering fluid speed generation in smaller waves and powerful connection and increased speed in larger surf, resulting in faster and improved turns.<br></span>Helps connect turns while generating and maintaining speed with a more predictable engaged feel.</p>\n<p><b>BENEFITS OF THE SCIMITAR TIP<br></b><span>Originally developed in 2006, The Scimitar Tip is flattened edge at the fin's trailing end, tightens the turn arc by reducing the template's length. This complements the 3/2 foil's lift and speed design, enhancing the feeling of release from turns while maximizing the foil properties throughout the fin's template.</span><br></p>\n<p><span><span style=\"font-weight: 400;\">The Alpha line is constructed with recycled fishing combined with our C6 air-infused carbon. The 5-fin set is designed to be ridden as either a Thruster or Quad set-up, packaged together for more versatility throughout your quiver. </span></span></p>\n<ul>\n<li>\n<span style=\"font-weight: 400;\">Construction - </span><span style=\"font-weight: 400;\">Alpha </span>\n</li>\n<li><span style=\"font-weight: 400;\"><span>Speed Generating</span></span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - All types | All conditions</span></li>\n<li>\n<span style=\"font-weight: 400;\"> Size - Large (165+ lbs)</span> </li>\n</ul>\n<p><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/Irb_sWBZxjE?si=FrZNOjfNde16R9HY\" height=\"315\" width=\"560\"></iframe></p>\n<p><span style=\"font-weight: 400;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cJMtqoqSgsk\" title=\"YouTube video player\"></iframe></span></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2024-06-18T16:50:54-07:00",
+    "handle": "alpha-vector-3-2-5-fin-l",
+    "updated_at": "2025-08-13T15:13:32-07:00",
+    "published_at": "2024-07-23T16:36:49-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "5 Fin, Fins, Fins: Alpha, Large (165lbs+)(75kgs+), Neutral",
+    "variants": [
+      {
+        "id": 42532181999755,
+        "product_id": 7472794009739,
+        "title": "Default Title",
+        "price": "120.00",
+        "sku": "1403-346-50",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-06-18T16:50:54-07:00",
+        "updated_at": "2025-08-13T15:13:32-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 454,
+        "image_id": null,
+        "weight": 1.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9598247665803,
+        "product_id": 7472794009739,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 34700703727755,
+        "product_id": 7472794009739,
+        "position": 1,
+        "created_at": "2024-07-24T12:24:47-07:00",
+        "updated_at": "2024-07-24T12:24:49-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_vector_3-2_alpha_L_5-fin_surfboard_fins_4f3bb543-5807-4246-86e8-d418dca940d7.jpg?v=1721849089",
+        "variant_ids": []
+      },
+      {
+        "id": 34700793610379,
+        "product_id": 7472794009739,
+        "position": 2,
+        "created_at": "2024-07-24T12:45:39-07:00",
+        "updated_at": "2024-07-24T12:45:41-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_vector_3-2_alpha_L_thruster_side_surfboard_fins_aa3a2304-f2a5-4c16-a1fc-6a75aa77b49a.jpg?v=1721850341",
+        "variant_ids": []
+      },
+      {
+        "id": 34700793544843,
+        "product_id": 7472794009739,
+        "position": 3,
+        "created_at": "2024-07-24T12:45:39-07:00",
+        "updated_at": "2024-07-24T12:45:42-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_vector_3-2_alpha_L_thruster_center_surfboard_fins_aa2f08b1-bd0d-476f-b68f-4013aab12207.jpg?v=1721850342",
+        "variant_ids": []
+      },
+      {
+        "id": 34700782960779,
+        "product_id": 7472794009739,
+        "position": 4,
+        "created_at": "2024-07-24T12:46:22-07:00",
+        "updated_at": "2024-07-24T12:46:24-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_3-2_alpha_quad_rear_surfboard_fins_6d5f6195-29d2-44e8-abbc-68f8d049db96.jpg?v=1721850384",
+        "variant_ids": []
+      },
+      {
+        "id": 34753792835723,
+        "product_id": 7472794009739,
+        "position": 5,
+        "created_at": "2024-08-02T14:38:37-07:00",
+        "updated_at": "2024-08-02T14:38:38-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_vector_3-2_alpha_L_5-fin_in-board_surfboard_fins.jpg?v=1722634718",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 34700703727755,
+      "product_id": 7472794009739,
+      "position": 1,
+      "created_at": "2024-07-24T12:24:47-07:00",
+      "updated_at": "2024-07-24T12:24:49-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_vector_3-2_alpha_L_5-fin_surfboard_fins_4f3bb543-5807-4246-86e8-d418dca940d7.jpg?v=1721849089",
+      "variant_ids": []
+    }
+  }
+}

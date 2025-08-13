@@ -1,0 +1,196 @@
+{
+  "product": {
+    "id": 5101851934859,
+    "title": "Voodoo Traction",
+    "body_html": "<p>The 3-piece Voodoo pad is designed to work with a wide range of tail shapes. <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Available in black and gray.</span><br></p>\n<ul>\n<li>3 Piece</li>\n<li>7 mm Arch Bar</li>\n<li>Combo Grid Traction</li>\n<li>45 Degree - Vert Kick</li>\n<li>Kick Height 26mm</li>\n<li>Color: Black</li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Accessories",
+    "created_at": "2021-02-23T14:40:25-08:00",
+    "handle": "f3p-voodoo-traction",
+    "updated_at": "2025-08-13T15:12:51-07:00",
+    "published_at": "2021-02-23T14:45:55-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Accessories, Accessories: Traction",
+    "variants": [
+      {
+        "id": 41697767358603,
+        "product_id": 5101851934859,
+        "title": "Voodoo Traction - Black",
+        "price": "48.00",
+        "sku": "7101-001-75",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Voodoo Traction - Black",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-11-06T14:14:24-08:00",
+        "updated_at": "2025-08-13T15:12:51-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 771,
+        "image_id": 16904298692747,
+        "weight": 1.7,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      },
+      {
+        "id": 41697767391371,
+        "product_id": 5101851934859,
+        "title": "Voodoo Traction - Gray",
+        "price": "48.00",
+        "sku": "7101-003-75",
+        "position": 2,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Voodoo Traction - Gray",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-11-06T14:14:24-08:00",
+        "updated_at": "2025-08-13T15:12:51-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 771,
+        "image_id": 33157863374987,
+        "weight": 1.7,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6623304876171,
+        "product_id": 5101851934859,
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Voodoo Traction - Black",
+          "Voodoo Traction - Gray"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 16904298692747,
+        "product_id": 5101851934859,
+        "position": 1,
+        "created_at": "2021-02-23T14:41:36-08:00",
+        "updated_at": "2021-02-23T14:41:36-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Prodcut_hero_images_Voodoo_traction.jpg?v=1614120096",
+        "variant_ids": [
+          41697767358603
+        ]
+      },
+      {
+        "id": 33296097738891,
+        "product_id": 5101851934859,
+        "position": 2,
+        "created_at": "2023-11-30T11:43:48-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_black_voodoo_traction_closeup_logo.jpg?v=1701373439",
+        "variant_ids": []
+      },
+      {
+        "id": 33296097673355,
+        "product_id": 5101851934859,
+        "position": 3,
+        "created_at": "2023-11-30T11:43:48-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_black_voodoo_traction_closeup_kick.jpg?v=1701373439",
+        "variant_ids": []
+      },
+      {
+        "id": 33296097771659,
+        "product_id": 5101851934859,
+        "position": 4,
+        "created_at": "2023-11-30T11:43:48-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_black_voodoo_traction_closeup_texture.jpg?v=1701373439",
+        "variant_ids": []
+      },
+      {
+        "id": 33157863374987,
+        "product_id": 5101851934859,
+        "position": 5,
+        "created_at": "2023-11-06T14:11:45-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/voodoo_traction_grey_23f3a741-5709-4283-9d46-9c45bd27455f.jpg?v=1701373439",
+        "variant_ids": [
+          41697767391371
+        ]
+      },
+      {
+        "id": 33157866717323,
+        "product_id": 5101851934859,
+        "position": 6,
+        "created_at": "2023-11-06T14:12:38-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_grey_voodoo_traction_3_602cdc71-a85b-444b-b562-55fcf39cdf36.jpg?v=1701373439",
+        "variant_ids": []
+      },
+      {
+        "id": 33157867110539,
+        "product_id": 5101851934859,
+        "position": 7,
+        "created_at": "2023-11-06T14:12:46-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_grey_voodoo_traction_2_a60c59fc-5fa0-4835-bd9a-bc304eff26d8.jpg?v=1701373439",
+        "variant_ids": []
+      },
+      {
+        "id": 33157867667595,
+        "product_id": 5101851934859,
+        "position": 8,
+        "created_at": "2023-11-06T14:13:00-08:00",
+        "updated_at": "2023-11-30T11:43:59-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Hero_images_grey_voodoo_traction_4c6f2cf5-c063-4cb1-9679-538425f8528b.jpg?v=1701373439",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 16904298692747,
+      "product_id": 5101851934859,
+      "position": 1,
+      "created_at": "2021-02-23T14:41:36-08:00",
+      "updated_at": "2021-02-23T14:41:36-08:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Prodcut_hero_images_Voodoo_traction.jpg?v=1614120096",
+      "variant_ids": [
+        41697767358603
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4689589108875,
+    "title": "1-Shot Box Router Bit",
+    "body_html": "<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<p><span>The 1-Shot Box Router Bit is made for installing the Futures 8.0\" and 10.75\" 1-Shot Fin Boxes</span>. Using this bit allows you to easily route a T-shaped profile for the deep part of the box and the flange in one pass.</p>\n<ul>\n<li>1/2\" Shank fits in all Plunge Routers (Does not fit in Laminate Trimmer router)<br>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2020-03-22T23:11:16-07:00",
+    "handle": "1shot-bit",
+    "updated_at": "2025-08-13T15:12:47-07:00",
+    "published_at": "2020-06-09T13:23:33-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 32965402919051,
+        "product_id": 4689589108875,
+        "title": "Default Title",
+        "price": "110.00",
+        "sku": "JIG-1-SHOT BIT",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-22T23:11:16-07:00",
+        "updated_at": "2025-08-13T15:12:47-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 340,
+        "image_id": null,
+        "weight": 0.75,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6089905635467,
+        "product_id": 4689589108875,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 15914327277707,
+        "product_id": 4689589108875,
+        "position": 1,
+        "created_at": "2020-06-09T13:20:30-07:00",
+        "updated_at": "2020-06-09T13:20:36-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_images_MFG_1shot_bit.jpg?v=1591734036",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 15914327277707,
+      "product_id": 4689589108875,
+      "position": 1,
+      "created_at": "2020-06-09T13:20:30-07:00",
+      "updated_at": "2020-06-09T13:20:36-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_images_MFG_1shot_bit.jpg?v=1591734036",
+      "variant_ids": []
+    }
+  }
+}

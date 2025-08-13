@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4666093469835,
+    "title": "Makita RT0701C Router",
+    "body_html": "<p>The Makita RT0701C Trim Router can be used for installing the Futures ILT Fin box and the Futures Leash Plug</p>\nFeatures:<br>\n<ul>\n<li>1 1/4 HP motor with variable speed control (10,000-30,000 RPM)</li>\n<li>Heavy duty aluminum motor housing</li>\n<li>Soft start feature for smooth start ups</li>\n<li>Fine depth adjustment system</li>\n<li>Quick release cam lock</li>\n</ul>\n<p>Includes straight guide and router base</p>\n<p>For more specifications visit: makita.com<br></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2020-03-18T07:19:11-07:00",
+    "handle": "makita-rt0701c-router",
+    "updated_at": "2025-08-13T15:12:32-07:00",
+    "published_at": "2020-03-18T07:19:11-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 32889650479243,
+        "product_id": 4666093469835,
+        "title": "Default Title",
+        "price": "200.00",
+        "sku": "JIG-ROUTER ONLY (RTO701C)",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-18T07:19:11-07:00",
+        "updated_at": "2025-08-13T15:12:32-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 2722,
+        "image_id": null,
+        "weight": 6.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6061859766411,
+        "product_id": 4666093469835,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14774399172747,
+        "product_id": 4666093469835,
+        "position": 1,
+        "created_at": "2020-03-18T07:20:32-07:00",
+        "updated_at": "2020-03-19T21:56:51-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_accessories_makita_router_surfboard_fins.jpg?v=1584680211",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 14774399172747,
+      "product_id": 4666093469835,
+      "position": 1,
+      "created_at": "2020-03-18T07:20:32-07:00",
+      "updated_at": "2020-03-19T21:56:51-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_accessories_makita_router_surfboard_fins.jpg?v=1584680211",
+      "variant_ids": []
+    }
+  }
+}

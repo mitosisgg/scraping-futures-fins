@@ -1,0 +1,104 @@
+{
+  "product": {
+    "id": 7129613926539,
+    "title": "Pyzel Thruster (M)",
+    "body_html": "<div title=\"Page 1\" class=\"page\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span>The Pyzel thruster, designed by North Shore shaper Jon Pyzel, is in the Neutral template category. The Honeycomb construction with carbon fiber at the base of the fin provides a balanced feel for all-around performance. </span></p>\n</div>\n</div>\n</div>\n</div>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Neutral (all-around | versatile)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb w/ Carbon</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Balanced – 6.3</span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - All types | All conditions</span></li>\n<li><span style=\"font-weight: 400;\"> Size - Medium (125 – 175 lbs)</span></li>\n</ul>\n<ul></ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2023-04-20T16:58:33-07:00",
+    "handle": "pyzel-medium-thruster-1",
+    "updated_at": "2025-08-13T15:13:22-07:00",
+    "published_at": "2023-09-19T07:41:40-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Balanced (7-4) All Around., Fins, Medium (125-175 lbs) (55-80 kgs), Neutral, Thruster",
+    "variants": [
+      {
+        "id": 41417958162571,
+        "product_id": 7129613926539,
+        "title": "Default Title",
+        "price": "145.00",
+        "sku": "1135-191-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-04-20T16:58:33-07:00",
+        "updated_at": "2025-08-13T15:13:22-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9181028122763,
+        "product_id": 7129613926539,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 32261107515531,
+        "product_id": 7129613926539,
+        "position": 1,
+        "created_at": "2023-04-20T16:58:42-07:00",
+        "updated_at": "2023-04-20T16:58:43-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_pyzel_L_side_surfboard_fins.jpg?v=1682035123",
+        "variant_ids": []
+      },
+      {
+        "id": 32261107646603,
+        "product_id": 7129613926539,
+        "position": 2,
+        "created_at": "2023-04-20T16:58:49-07:00",
+        "updated_at": "2023-04-20T16:58:50-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_pyzel_M_center_surfboard_fins.jpg?v=1682035130",
+        "variant_ids": []
+      },
+      {
+        "id": 33022923047051,
+        "product_id": 7129613926539,
+        "position": 3,
+        "created_at": "2023-10-12T15:47:33-07:00",
+        "updated_at": "2023-10-12T15:47:34-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_pyzel_M_inboard_surfboard_fins.jpg?v=1697150854",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 32261107515531,
+      "product_id": 7129613926539,
+      "position": 1,
+      "created_at": "2023-04-20T16:58:42-07:00",
+      "updated_at": "2023-04-20T16:58:43-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_pyzel_L_side_surfboard_fins.jpg?v=1682035123",
+      "variant_ids": []
+    }
+  }
+}

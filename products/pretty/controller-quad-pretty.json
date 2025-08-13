@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4539122122891,
+    "title": "Controller Quad",
+    "body_html": "<p><span style=\"font-weight: 400;\">The Controller Quad is a split keel setup designed specifically for use in wide tail fish designs. The honeycomb &amp; bamboo construction, V2-Foil and xtra-large surface area are great for generating speed and maintaining it through a sequence of turns. With the upright template of the quad rears, there is a skatey feel to the set that’s similar to a twin keel, but with more control.</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category | Pivot (tight-turns/loose) </span></li>\n<li><span style=\"font-weight: 400;\"> Construction | Honeycomb w/ Bamboo</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number | Balanced – 8.3</span></li>\n<li>\n<span style=\"font-weight: 400;\">Size | X-Large </span><span style=\"font-weight: 400;\">Quad</span>\n</li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2020-02-11T16:14:52-08:00",
+    "handle": "controller-quad",
+    "updated_at": "2025-08-13T15:12:19-07:00",
+    "published_at": "2019-11-12T11:51:24-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Large (165+ lbs) (75+ kgs), Quad",
+    "variants": [
+      {
+        "id": 32263928545419,
+        "product_id": 4539122122891,
+        "title": "Default Title",
+        "price": "165.00",
+        "sku": "1200-154-40",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-02-11T16:14:53-08:00",
+        "updated_at": "2025-08-13T15:12:19-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 454,
+        "image_id": null,
+        "weight": 1.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 5900937101451,
+        "product_id": 4539122122891,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14239172034699,
+        "product_id": 4539122122891,
+        "position": 1,
+        "created_at": "2020-02-11T16:14:53-08:00",
+        "updated_at": "2020-02-11T16:14:53-08:00",
+        "alt": "Controller Quad, Speed Control, Large Quad Surfboard Fins",
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_controller_quad_surfboard_fins.jpg?v=1581466493",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 14239172034699,
+      "product_id": 4539122122891,
+      "position": 1,
+      "created_at": "2020-02-11T16:14:53-08:00",
+      "updated_at": "2020-02-11T16:14:53-08:00",
+      "alt": "Controller Quad, Speed Control, Large Quad Surfboard Fins",
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_controller_quad_surfboard_fins.jpg?v=1581466493",
+      "variant_ids": []
+    }
+  }
+}

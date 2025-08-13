@@ -1,0 +1,128 @@
+{
+  "product": {
+    "id": 7514122256523,
+    "title": "Mikey February Keel",
+    "body_html": "<p class=\"MsoNormal\"><meta charset=\"UTF-8\"><meta charset=\"UTF-8\"><span>The Mikey February signature keel fin is designed to enhance performance on fish style boards. We preserved the traditional characteristics of a keel fin, such as hold and down-the-line drive, all while adding a looser, more responsive feel when the board is put on rail. We maintained the base length, area, and tip rake to retain the keel’s essence, but reduced the area through the center of the fin to increase responsiveness, just as Mikey envisioned. Constructed from solid fiberglass, this set features inverted colorways between the left and right fins. This fin set performs exceptionally well across a wide range of traditional fish boards.</span><br></p>\n<ul>\n<li>Construction | Fiberglass</li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2024-08-01T10:28:53-07:00",
+    "handle": "mikey-february-keel",
+    "updated_at": "2025-08-13T15:13:33-07:00",
+    "published_at": "2024-09-13T17:10:29-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fiberglass, Fins, Twin",
+    "variants": [
+      {
+        "id": 42648027562123,
+        "product_id": 7514122256523,
+        "title": "Default Title",
+        "price": "130.00",
+        "sku": "1303-219-20",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-08-01T10:28:53-07:00",
+        "updated_at": "2025-08-13T15:13:33-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 476,
+        "image_id": null,
+        "weight": 1.05,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9646705311883,
+        "product_id": 7514122256523,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 35055889842315,
+        "product_id": 7514122256523,
+        "position": 1,
+        "created_at": "2024-09-16T10:20:27-07:00",
+        "updated_at": "2024-09-16T10:20:28-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_feb_keel_red_side_surfboard_fins_a94030c4-90e8-4859-b6df-461d21d642a4.jpg?v=1726507228",
+        "variant_ids": []
+      },
+      {
+        "id": 34805964898443,
+        "product_id": 7514122256523,
+        "position": 2,
+        "created_at": "2024-08-14T13:49:48-07:00",
+        "updated_at": "2024-08-14T13:49:50-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_feb_keel_white_side_surfboard_fins_9576c0d3-2d0f-4ce3-be43-ffec6323e608.jpg?v=1723668590",
+        "variant_ids": []
+      },
+      {
+        "id": 35158091235467,
+        "product_id": 7514122256523,
+        "position": 3,
+        "created_at": "2024-09-25T13:55:12-07:00",
+        "updated_at": "2024-09-25T13:55:13-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_february_twin_fin_keel_surfboard_fins_1.jpg?v=1727297713",
+        "variant_ids": []
+      },
+      {
+        "id": 35158091268235,
+        "product_id": 7514122256523,
+        "position": 4,
+        "created_at": "2024-09-25T13:55:12-07:00",
+        "updated_at": "2024-09-25T13:55:13-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_february_twin_fin_keel_surfboard_fins_2.jpg?v=1727297713",
+        "variant_ids": []
+      },
+      {
+        "id": 35158091301003,
+        "product_id": 7514122256523,
+        "position": 5,
+        "created_at": "2024-09-25T13:55:12-07:00",
+        "updated_at": "2024-09-25T13:55:14-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_february_twin_fin_keel_surfboard_fins_3.jpg?v=1727297714",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 35055889842315,
+      "product_id": 7514122256523,
+      "position": 1,
+      "created_at": "2024-09-16T10:20:27-07:00",
+      "updated_at": "2024-09-16T10:20:28-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mikey_feb_keel_red_side_surfboard_fins_a94030c4-90e8-4859-b6df-461d21d642a4.jpg?v=1726507228",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "product": {
+    "id": 7626099851403,
+    "title": "Fin Angle Tool Kit",
+    "body_html": "<p><span>The Futures Fin Angle Tool Kit works in collaboration with the Futures set fins to ensure precise ILT fin box angle installation. The kit includes a 3.0 degree, 4.0 degree and 6.5 degree angle plate to match up with the corresponding set fins + 2 platforms for holding the plates.</span></p>\n<p>Includes:<br>- <span>Futures Fin Angle Plate - 3.0 degrees</span><br>- <span>Futures Fin Angle Plate - 4.0 degrees</span><br>- <span>Futures Fin Angle Plate - 6.5 degrees</span><br>- <span>Futures Fin Angle Platform - large (for front fin angle plate)</span><br>- <span>Futures Fin Angle Platform - small (for rear fin angle plate)</span></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2025-01-27T14:13:49-08:00",
+    "handle": "fin-angle-tool-kit",
+    "updated_at": "2025-08-13T15:13:35-07:00",
+    "published_at": "2025-01-27T15:28:35-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Accessories: Tools, Board Builders, Shaper Tools, Shaper Tools: Installation Kits, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 43040112050315,
+        "product_id": 7626099851403,
+        "title": "Default Title",
+        "price": "50.00",
+        "sku": "JIG-FIN ANGLE TOOL KIT",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-01-27T14:13:49-08:00",
+        "updated_at": "2025-08-13T15:13:35-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 1361,
+        "image_id": null,
+        "weight": 3.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9786466697355,
+        "product_id": 7626099851403,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 36151000924299,
+        "product_id": 7626099851403,
+        "position": 1,
+        "created_at": "2025-01-27T14:48:32-08:00",
+        "updated_at": "2025-01-27T14:48:50-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/fin_angle_tool_kit.jpg?v=1738018130",
+        "variant_ids": []
+      },
+      {
+        "id": 36150963961995,
+        "product_id": 7626099851403,
+        "position": 2,
+        "created_at": "2025-01-27T14:42:22-08:00",
+        "updated_at": "2025-01-27T14:48:50-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/fin_angle_tool_kit_3.0_55b366d6-a499-4a5d-aacb-96e6c1235ddb.jpg?v=1738018130",
+        "variant_ids": []
+      },
+      {
+        "id": 36150954557579,
+        "product_id": 7626099851403,
+        "position": 3,
+        "created_at": "2025-01-27T14:40:46-08:00",
+        "updated_at": "2025-01-27T14:48:50-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/fin_angle_tool_kit_4.0.jpg?v=1738018130",
+        "variant_ids": []
+      },
+      {
+        "id": 36150954623115,
+        "product_id": 7626099851403,
+        "position": 4,
+        "created_at": "2025-01-27T14:40:46-08:00",
+        "updated_at": "2025-01-27T14:48:50-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/fin_angle_tool_kit_6.5.jpg?v=1738018130",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 36151000924299,
+      "product_id": 7626099851403,
+      "position": 1,
+      "created_at": "2025-01-27T14:48:32-08:00",
+      "updated_at": "2025-01-27T14:48:50-08:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/fin_angle_tool_kit.jpg?v=1738018130",
+      "variant_ids": []
+    }
+  }
+}

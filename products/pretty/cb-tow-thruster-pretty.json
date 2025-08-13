@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4666090193035,
+    "title": "CB Tow Thruster G10",
+    "body_html": "<p><span style=\"font-weight: 400;\">The CB Tow Thruster G10 was developed by tow surf pioneer Carlos Burle in the early 2000s, riding some massive waves. Featuring the same side fin as the Paddle Quad, but a slightly larger Center fin for absolute control at the highest speeds. </span><span style=\"font-weight: 400;\">Made from epoxy resin and compressed fiberglass, the </span><span style=\"font-weight: 400;\">G10 Series </span><span style=\"font-weight: 400;\">features Futures’ engineered tow foils designed to reduce cavitation through highly efficient water flow, resulting in reduced drag, increased control and maneuverability at extremely high speeds. Cant angle is at </span><span style=\"font-weight: 400;\">2.0º.</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category | Big Wave</span></li>\n<li><span style=\"font-weight: 400;\"> Construction | G10</span></li>\n<li><span style=\"font-weight: 400;\"> Size | Large Tow</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2020-03-18T07:18:15-07:00",
+    "handle": "cb-tow-thruster",
+    "updated_at": "2025-08-13T15:12:30-07:00",
+    "published_at": "2020-05-11T13:01:04-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Big Wave, Fins, Speed Control (4-1) Solid. Engaged. Predictable.",
+    "variants": [
+      {
+        "id": 32889646055563,
+        "product_id": 4666090193035,
+        "title": "Default Title",
+        "price": "160.00",
+        "sku": "1618-500-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-18T07:18:15-07:00",
+        "updated_at": "2025-08-13T15:12:30-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 408,
+        "image_id": null,
+        "weight": 0.9,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6061856030859,
+        "product_id": 4666090193035,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 28177630331019,
+        "product_id": 4666090193035,
+        "position": 1,
+        "created_at": "2021-05-18T11:13:40-07:00",
+        "updated_at": "2021-05-18T11:13:50-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/cb_g10_2copy.jpg?v=1621361630",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 28177630331019,
+      "product_id": 4666090193035,
+      "position": 1,
+      "created_at": "2021-05-18T11:13:40-07:00",
+      "updated_at": "2021-05-18T11:13:50-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/cb_g10_2copy.jpg?v=1621361630",
+      "variant_ids": []
+    }
+  }
+}

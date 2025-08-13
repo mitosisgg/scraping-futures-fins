@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 6920555331723,
+    "title": "Mayhem Evil Quad",
+    "body_html": "<p class=\"p1\">\"Sometimes the path forward leads us by looking back. In 2008 and 2009, while building boards and filming for 5’5” REDUX, we got into designing fish and other alternative boards around a Twin+2 setup. Basically a Quad, but with twin fins up front, and what were essentially longboard “side bites” as the rear quads. Cory Lopez famously rode this setup during the iconic segment of him slaying Skeleton Bay, on one of the first ever documented strike missions there. He also nailed a SURFER Mag cover, doing an air, in Indo, with the fin setup clearly visible.</p>\n<p class=\"p1\">Over the last year or so, I revisited this concept and have been personally having a blast, working with Futures to get it tested and developed. Using the new \"medium sized\" Evil Twin template up front and pairing with two 80/20 foiled, downsized rear quads, we felt we nailed it. After playing with varying cants, flexes, and visuals, we are proud to announce and release the all NEW EVIL TWIN+2…or should we say EVIL QUAD.</p>\n<p class=\"p1\">To celebrate the release of the Evil Quad and Evil Twin we updated the graphics and cant angle of the original EvilTwin, as well. All three options come resplendent in radiant color, by LongToe laminations\" Mayhem </p>\n<ul>\n<li>Construction - Honeycomb <br>\n</li>\n<li>Template Category - <span class=\"s1\">Evil Quad</span>\n</li>\n<li><span>Ride Number - Balanced – 6.8</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-07-06T16:57:18-07:00",
+    "handle": "mayhem-evil-quad",
+    "updated_at": "2025-08-13T15:13:14-07:00",
+    "published_at": "2022-12-01T08:38:07-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Quad",
+    "variants": [
+      {
+        "id": 40521054355595,
+        "product_id": 6920555331723,
+        "title": "Default Title",
+        "price": "165.00",
+        "sku": "1061-186-40",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-07-06T16:57:18-07:00",
+        "updated_at": "2025-08-13T15:13:14-07:00",
+        "taxable": true,
+        "barcode": "815681025200",
+        "grams": 680,
+        "image_id": null,
+        "weight": 1.5,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 8907307614347,
+        "product_id": 6920555331723,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 32644704141451,
+        "product_id": 6920555331723,
+        "position": 1,
+        "created_at": "2023-07-14T15:45:07-07:00",
+        "updated_at": "2023-07-14T15:45:09-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mayhem_evil_quad_surfboard_fins.jpg?v=1689374709",
+        "variant_ids": []
+      },
+      {
+        "id": 30923349917835,
+        "product_id": 6920555331723,
+        "position": 2,
+        "created_at": "2022-10-13T17:08:30-07:00",
+        "updated_at": "2023-07-14T15:45:09-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_mayhem_evil_quad_inboard_surfboard_fins_v2.jpg?v=1689374709",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 32644704141451,
+      "product_id": 6920555331723,
+      "position": 1,
+      "created_at": "2023-07-14T15:45:07-07:00",
+      "updated_at": "2023-07-14T15:45:09-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_mayhem_evil_quad_surfboard_fins.jpg?v=1689374709",
+      "variant_ids": []
+    }
+  }
+}

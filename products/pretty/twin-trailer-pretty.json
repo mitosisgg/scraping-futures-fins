@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 7340928106635,
+    "title": "TT1 Twin Trailer",
+    "body_html": "<p><span style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">The TT1 twin trailer fin pairs well with any large twin fins to add stability to your ride.</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"> Construction - Fiberglass</span></li>\n<li><span style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"> Setup - Twin Trailer</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2024-04-10T15:13:27-07:00",
+    "handle": "twin-trailer",
+    "updated_at": "2025-08-13T15:13:30-07:00",
+    "published_at": "2024-08-21T08:34:16-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Twin",
+    "variants": [
+      {
+        "id": 42179437625483,
+        "product_id": 7340928106635,
+        "title": "Default Title",
+        "price": "50.00",
+        "sku": "1008-210-02",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-04-10T15:13:27-07:00",
+        "updated_at": "2025-08-13T15:13:30-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 408,
+        "image_id": null,
+        "weight": 0.9,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9442359214219,
+        "product_id": 7340928106635,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 33982673092747,
+        "product_id": 7340928106635,
+        "position": 1,
+        "created_at": "2024-04-10T15:13:59-07:00",
+        "updated_at": "2024-04-10T15:14:01-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_twin_trailer_surfboard_fins.jpg?v=1712787241",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 33982673092747,
+      "product_id": 7340928106635,
+      "position": 1,
+      "created_at": "2024-04-10T15:13:59-07:00",
+      "updated_at": "2024-04-10T15:14:01-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_twin_trailer_surfboard_fins.jpg?v=1712787241",
+      "variant_ids": []
+    }
+  }
+}

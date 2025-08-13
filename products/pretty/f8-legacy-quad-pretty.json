@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 6862718632075,
+    "title": "F8 Legacy Quad",
+    "body_html": "<p><span style=\"font-weight: 400;\">The F8 Legacy Series Quad is a large sized fin in the Neutral template category. The honeycomb construction gives a balanced feel for all-around performance. The rear fins are QD2 4.15 with an 80/20 foil.</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Neutral (all-around | versatile)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Balanced – 5.4</span></li>\n<li>Suggested Wave Type - All types | All conditions</li>\n<li><span style=\"font-weight: 400;\"> Size - Large Quad (165+ lbs)</span></li>\n</ul>\n<ul></ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-05-18T10:42:44-07:00",
+    "handle": "f8-legacy-quad",
+    "updated_at": "2025-08-13T15:13:07-07:00",
+    "published_at": "2022-08-15T14:31:39-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Balanced (7-4) All Around., Fins, Honeycomb, Large (165+ lbs) (75+ kgs), Quad",
+    "variants": [
+      {
+        "id": 40312400511115,
+        "product_id": 6862718632075,
+        "title": "Default Title",
+        "price": "140.00",
+        "sku": "1175-182-40",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-05-18T10:42:44-07:00",
+        "updated_at": "2025-08-13T15:13:07-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 431,
+        "image_id": null,
+        "weight": 0.95,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 8837071831179,
+        "product_id": 6862718632075,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 29838704771211,
+        "product_id": 6862718632075,
+        "position": 1,
+        "created_at": "2022-05-18T10:43:31-07:00",
+        "updated_at": "2022-05-18T10:43:32-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/legacy_neutral_large_quad.jpg?v=1652895812",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 29838704771211,
+      "product_id": 6862718632075,
+      "position": 1,
+      "created_at": "2022-05-18T10:43:31-07:00",
+      "updated_at": "2022-05-18T10:43:32-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/legacy_neutral_large_quad.jpg?v=1652895812",
+      "variant_ids": []
+    }
+  }
+}

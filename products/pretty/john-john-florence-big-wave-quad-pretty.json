@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 7068529098891,
+    "title": "John John Florence Big Wave Quad",
+    "body_html": "<meta charset=\"UTF-8\">\n<div>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span>After a few near misses at what might have been the waves of John John’s life, he came to us with this design idea. \"Let’s flip the normal quad set around, so the smaller fins are up front, for speed and the larger fins are in the back, for control. This should hold my tail in, while still providing enough stability with the G-10 construction to hold an edge down the line.\" The speed felt was next level. Full disclosure, this was for </span><span>a specific huge left, with JJF riding on his backhand. In terms of forehand testing, runner-up at the 2023 Eddie can be referenced. Wave of his life, still pending, but it will be a Big Wave. </span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Construction - G-10</span></li>\n<li data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Ride Number - Speed Control – 2.2</span></li>\n<li data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Suggested Wave Type - Big Wave</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2023-01-04T15:34:04-08:00",
+    "handle": "john-john-florence-big-wave-quad",
+    "updated_at": "2025-08-13T15:13:20-07:00",
+    "published_at": "2023-07-27T19:18:04-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Big Wave, Fins, Quad",
+    "variants": [
+      {
+        "id": 41166328463499,
+        "product_id": 7068529098891,
+        "title": "Default Title",
+        "price": "260.00",
+        "sku": "1605-502-40",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-01-04T15:34:05-08:00",
+        "updated_at": "2025-08-13T15:13:20-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 454,
+        "image_id": null,
+        "weight": 1.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9108227588235,
+        "product_id": 7068529098891,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 31620357521547,
+        "product_id": 7068529098891,
+        "position": 1,
+        "created_at": "2023-01-04T15:55:49-08:00",
+        "updated_at": "2023-01-04T15:55:50-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_JJF_bigwave_quads_surfboard_fins.jpg?v=1672876550",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 31620357521547,
+      "product_id": 7068529098891,
+      "position": 1,
+      "created_at": "2023-01-04T15:55:49-08:00",
+      "updated_at": "2023-01-04T15:55:50-08:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_JJF_bigwave_quads_surfboard_fins.jpg?v=1672876550",
+      "variant_ids": []
+    }
+  }
+}

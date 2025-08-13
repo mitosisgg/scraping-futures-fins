@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 6596463362187,
+    "title": "Techflex 2+1",
+    "body_html": "<p>The Techflex 2+1 combines the best of high performance longboarding and traditional noseriding. This set is intended to be ridden as a thruster with the Techflex materials providing highspeed stability, while the center fin allows for maneuverability with a soft flex pattern through the tip.</p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category | Performance 2+1</span></li>\n<li><span style=\"font-weight: 400;\"> Construction | Techflex</span></li>\n<li><span style=\"font-weight: 400;\"> Size | Large Longboard</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2021-07-06T14:03:40-07:00",
+    "handle": "techflex-2-1",
+    "updated_at": "2025-08-13T15:12:53-07:00",
+    "published_at": "2021-08-19T16:41:48-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "2 plus 1, Fins, Techflex",
+    "variants": [
+      {
+        "id": 39410715590795,
+        "product_id": 6596463362187,
+        "title": "Default Title",
+        "price": "150.00",
+        "sku": "8036-426-63",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2021-07-06T14:03:40-07:00",
+        "updated_at": "2025-08-13T15:12:53-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 567,
+        "image_id": null,
+        "weight": 1.25,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 8488238252171,
+        "product_id": 6596463362187,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 28306042814603,
+        "product_id": 6596463362187,
+        "position": 1,
+        "created_at": "2021-07-07T13:17:29-07:00",
+        "updated_at": "2021-07-07T13:17:35-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/techflex_2__1_hero_image.jpg?v=1625689055",
+        "variant_ids": []
+      },
+      {
+        "id": 28305666637963,
+        "product_id": 6596463362187,
+        "position": 2,
+        "created_at": "2021-07-07T10:00:46-07:00",
+        "updated_at": "2021-07-07T13:17:35-07:00",
+        "alt": null,
+        "width": 3318,
+        "height": 2212,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/tf_6.88_product_shot.jpg?v=1625689055",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 28306042814603,
+      "product_id": 6596463362187,
+      "position": 1,
+      "created_at": "2021-07-07T13:17:29-07:00",
+      "updated_at": "2021-07-07T13:17:35-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/techflex_2__1_hero_image.jpg?v=1625689055",
+      "variant_ids": []
+    }
+  }
+}

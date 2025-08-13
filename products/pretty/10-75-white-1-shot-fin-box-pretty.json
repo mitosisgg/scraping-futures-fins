@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 4689564532875,
+    "title": "10.75\" White 1-Shot Fin Box",
+    "body_html": "<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<meta charset=\"utf-8\">\n<div class=\"panel-group pdt-detail-panel\" id=\"accordion\">\n<div class=\"panel panel-default each-panel-pdt\">\n<div id=\"collapse1\" class=\"panel-collapse collapse in\">\n<div class=\"panel-body\">\n<div class=\"std\">\n<p>Futures “1-Shot” fin box is molded as one solid piece, making it stronger than traditional long fin boxes and completely resistant to leaks. It is made from our proprietary materials that have an incredible bond to polyester and epoxy resin.</p>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<ul></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2020-03-22T22:59:19-07:00",
+    "handle": "10-75-white-1-shot-fin-box",
+    "updated_at": "2025-08-13T15:12:46-07:00",
+    "published_at": "2020-03-22T22:59:19-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Fin Boxes",
+    "variants": [
+      {
+        "id": 32965292916875,
+        "product_id": 4689564532875,
+        "title": "Default Title",
+        "price": "16.00",
+        "sku": "FLB10.75-WH",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-03-22T22:59:19-07:00",
+        "updated_at": "2025-08-13T15:12:46-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 227,
+        "image_id": null,
+        "weight": 0.5,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 6089873522827,
+        "product_id": 4689564532875,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14850536734859,
+        "product_id": 4689564532875,
+        "position": 1,
+        "created_at": "2020-03-22T22:59:45-07:00",
+        "updated_at": "2020-03-22T22:59:45-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_individual_tools_1shot_10.75_white_surfboard_fins.jpg?v=1584943185",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 14850536734859,
+      "product_id": 4689564532875,
+      "position": 1,
+      "created_at": "2020-03-22T22:59:45-07:00",
+      "updated_at": "2020-03-22T22:59:45-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_individual_tools_1shot_10.75_white_surfboard_fins.jpg?v=1584943185",
+      "variant_ids": []
+    }
+  }
+}

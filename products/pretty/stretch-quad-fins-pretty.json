@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 7126645309579,
+    "title": "Stretch Quad Fins",
+    "body_html": "<p><span style=\"font-weight: 400;\">The Stretch Quad, designed by Santa Cruz, Ca shaper William Riedel of Stretch Surfboards, is the performance quad that all other sets measure up to. The honeycomb construction combined with Stretch’s concave foil on the front fins and symmetrical foil on the rear fins create a unique feeling of traction and maneuverability, ideal for building speed. Both front and rear templates feature Stretch's signature beak-tip template to provide ultimate four fin performance. </span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Pivot (tight-turns | quick)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Speed Generating – 7.4</span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - Beach breaks | In the pocket</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2023-04-11T15:59:17-07:00",
+    "handle": "stretch-quad-fins",
+    "updated_at": "2025-08-13T15:13:22-07:00",
+    "published_at": "2023-07-27T19:19:07-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Medium (125-175 lbs) (55-80 kgs), Pivot, Quad, Speed Generating (10-7) Springy. Fluid. Responsive.",
+    "variants": [
+      {
+        "id": 41407264555147,
+        "product_id": 7126645309579,
+        "title": "Default Title",
+        "price": "160.00",
+        "sku": "2310-185-40",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-04-11T15:59:17-07:00",
+        "updated_at": "2025-08-13T15:13:22-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 476,
+        "image_id": null,
+        "weight": 1.05,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9177433079947,
+        "product_id": 7126645309579,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 32222467391627,
+        "product_id": 7126645309579,
+        "position": 1,
+        "created_at": "2023-04-11T15:59:36-07:00",
+        "updated_at": "2023-04-11T15:59:37-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_stretch_quad_surfboard_fins.jpg?v=1681253977",
+        "variant_ids": []
+      },
+      {
+        "id": 32534449750155,
+        "product_id": 7126645309579,
+        "position": 2,
+        "created_at": "2023-06-21T10:41:41-07:00",
+        "updated_at": "2023-06-21T10:41:42-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_stretch_quad_in-board_surfboard_fins.jpg?v=1687369302",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 32222467391627,
+      "product_id": 7126645309579,
+      "position": 1,
+      "created_at": "2023-04-11T15:59:36-07:00",
+      "updated_at": "2023-04-11T15:59:37-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_stretch_quad_surfboard_fins.jpg?v=1681253977",
+      "variant_ids": []
+    }
+  }
+}

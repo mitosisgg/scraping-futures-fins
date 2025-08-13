@@ -1,0 +1,104 @@
+{
+  "product": {
+    "id": 7522080948363,
+    "title": "JS Thruster (L)",
+    "body_html": "<div title=\"Page 1\" class=\"page\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span><img alt=\"\"><meta charset=\"utf-8\">“A balanced, all-round fin designed for fast and powerful surfing. Our JS template has a long base to produce drive and hold, while a relatively tapered tip allows release when pushed out of the lip. <br>We’ve used this fin in a wide range of conditions across our range of models, from step downs like our Xero Fusion up to the most high performance shortboards in the range. It’ll provide you with extra confidence on rail and control in big sections, and even more importantly, consistency from board to board, day in day out.”<br>- JS Surfboards</span><span></span></p>\n</div>\n</div>\n</div>\n</div>\n<ul>\n<li><span style=\"font-weight: 400;\">Template Category - Rake (drawn-out | drive)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb </span></li>\n<li><span style=\"font-weight: 400;\"> Size - Large (165+ lbs)</span></li>\n</ul>\n<ul></ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2024-08-14T13:17:13-07:00",
+    "handle": "js-thruster-l",
+    "updated_at": "2025-08-13T15:13:34-07:00",
+    "published_at": "2024-10-28T15:24:58-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Balanced (7-4) All Around., Fins, Large (165+ lbs) (75+ kgs), Rake, Thruster",
+    "variants": [
+      {
+        "id": 42670720385163,
+        "product_id": 7522080948363,
+        "title": "Default Title",
+        "price": "130.00",
+        "sku": "1192-110-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-08-14T13:17:13-07:00",
+        "updated_at": "2025-08-13T15:13:34-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9656222777483,
+        "product_id": 7522080948363,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 34805799157899,
+        "product_id": 7522080948363,
+        "position": 1,
+        "created_at": "2024-08-14T13:17:31-07:00",
+        "updated_at": "2024-08-14T13:17:33-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_js_thruster_side_surfboard_fins_8b62aeab-ac6d-49a4-9780-e7a9c87e2a2a.jpg?v=1723666653",
+        "variant_ids": []
+      },
+      {
+        "id": 34805799223435,
+        "product_id": 7522080948363,
+        "position": 2,
+        "created_at": "2024-08-14T13:17:31-07:00",
+        "updated_at": "2024-08-14T13:17:33-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_js_thruster_center_surfboard_fins_e710032e-a0aa-451c-a409-0e074223efbc.jpg?v=1723666653",
+        "variant_ids": []
+      },
+      {
+        "id": 34805799190667,
+        "product_id": 7522080948363,
+        "position": 3,
+        "created_at": "2024-08-14T13:17:31-07:00",
+        "updated_at": "2024-08-14T13:17:33-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_js_thruster_in-board_surfboard_fins_f38df97d-4b46-4a18-96cc-e0093d5c45f8.jpg?v=1723666653",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 34805799157899,
+      "product_id": 7522080948363,
+      "position": 1,
+      "created_at": "2024-08-14T13:17:31-07:00",
+      "updated_at": "2024-08-14T13:17:33-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_js_thruster_side_surfboard_fins_8b62aeab-ac6d-49a4-9780-e7a9c87e2a2a.jpg?v=1723666653",
+      "variant_ids": []
+    }
+  }
+}

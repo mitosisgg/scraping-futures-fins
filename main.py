@@ -1,5 +1,7 @@
 import requests
 import os
+import json
+import argparse
 from bs4 import BeautifulSoup
 import re
 
@@ -34,6 +36,32 @@ def save_sitemap(sitemap_content: bytes, filename: str = 'product_sitemap.xml') 
     """
     with open(filename, 'wb') as f:
         f.write(sitemap_content)
+
+def prettify_json_file(filename: str) -> None:
+    """
+    Reads a JSON file, formats it with indentation, and saves it with '-pretty' suffix.
+    
+    Args:
+        filename: Path to the JSON file to prettify
+    """
+    try:
+        # Read the JSON file
+        with open(filename, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            
+        # Create new filename with -pretty suffix
+        base_name = os.path.basename(filename)
+        pretty_filename = os.path.join(os.path.dirname(filename), f"{os.path.splitext(base_name)[0]}-pretty.json")
+        
+        # Write the prettified JSON
+        with open(pretty_filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"Prettified JSON saved to: {pretty_filename}")
+            
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON in {filename}: {str(e)}")
+    except Exception as e:
+        print(f"Error processing {filename}: {str(e)}")
 
 def fetch_product_json(product_url: str) -> None:
     """
@@ -91,12 +119,29 @@ def fetch_and_parse_sitemap(sitemap_url: str) -> list:
     return urls
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Fetch and process product data from Futures Fins')
+    parser.add_argument('--fetch-products', action='store_true',
+                       help='Fetch product JSON files from URLs (default: False)')
+    args = parser.parse_args()
+
     # URL of the product sitemap
     sitemap_url = "https://futuresfins.com/sitemap_products_1.xml?from=4539112718475&to=7713593983115"
     
     urls = fetch_and_parse_sitemap(sitemap_url)
     print(f"Found {len(urls)} URLs")
 
-    for url in urls:
-        fetch_product_json(url)
+    # Fetch all product JSON files if requested
+    if args.fetch_products:
+        print("\nFetching product JSON files...")
+        for url in urls:
+            fetch_product_json(url)
+    
+    # Prettify all JSON files in the products directory
+    print("\nPrettifying JSON files...")
+    products_dir = 'products/pretty/'
+    if os.path.exists(products_dir):
+        for filename in os.listdir(products_dir):
+            if filename.endswith('.json') and not filename.endswith('-pretty.json'):
+                full_path = os.path.join(products_dir, filename)
+                prettify_json_file(full_path)
     

@@ -1,0 +1,152 @@
+{
+  "product": {
+    "id": 7526646710411,
+    "title": "Alpha Reverse 3/2 Twin+1",
+    "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"UTF-8\"><span>The Alpha Reverse 3/2 Twin + 1 is designed to surf your favorite twin board at full throttle. The “Reverse 3/2” refers to the twist in the foil, through the top third of the fin, that adds an additional 3 degrees of cant and 2 degrees less toe. The Reverse aspect is that the toe angle straightens only in the tip. This creates two separate foil surfaces, one at the base of the fin and one at the tip, that both feature Future’s proprietary Vector foil. This unique foil keeps the fin engaged on rail, creating tons of drive, speed and grip. Pedal to the metal!</span><br></p>\n<ul>\n<li>\n<meta charset=\"UTF-8\"> <span>Cant at the fin base is 4 degrees, transitioning to 7 degrees at the tip = looser.</span>\n</li>\n<li><span>Toe at the fin base is in respect to the box placement, transitioning to 2 degrees less at the tip = tight, engaged.</span></li>\n<li><span>Vector Foil = Speed Generating and locked in feel.</span></li>\n<li><span>Scimitar Tip = Enhanced pivot and release.</span></li>\n</ul>\n<p><meta charset=\"UTF-8\"><span>Made in Huntington Beach, the Alpha construction combines Bureo’s NetPlus recycled fishing nets with Futures’ Compound 6 (C6) carbon and air infused technology.</span></p>\n<p><span><strong>WHAT IS A VECTOR FOIL</strong><br>It is a proprietary Futures foil with a concave surface on the inside of the front fins, increasing surface area, water attachment, and lift.<br></span></p>\n<p><span><strong>WHAT IS A 3/2 REVERSE</strong><br>3/2 REVERSE complements the Vector foil with an extra 3 degrees of cant and 2 degrees of outward toe towards the rail, creating a twist to the foil that keeps the fin engaged through turns.<br></span></p>\n<p><span><strong>PERFORMANCE BENEFITS OF THE VECTOR REVERSE 3/2</strong><br>The Vector Reverse 3/2 is a Speed Generating fin, maximizing water attachment over multiple planning surfaces, resulting in lift and hold. This unique foil keeps the fin engaged as you progress through your turns, creating tons of speed as you exit your turn.<br></span></p>\n<p><span><strong>BENEFITS OF THE SCIMITAR TIP</strong><br>Originally developed in 2006, The Scimitar Tip is flattened edge at the fin's trailing end, tightens the turn arc by reducing the template's length. This complements the Reverse 3/2 foil's lift and speed design, enhancing the feeling of release from turns while maximizing the foil properties throughout the fin's template.<br></span></p>\n<p><span><strong>CANT</strong><br>Cant at the fin base is 4 degrees, transitioning to 7 degrees at the tip = looser.</span></p>\n<p><span><strong>TOE</strong><br>Toe at the fin base is in respect to the box placement, transitioning to 2 degrees less at the tip = tight, engaged.<br></span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Construction - Alpha</span></li>\n<li>\n<span style=\"font-weight: 400;\">Speed Generating</span><span style=\"font-weight: 400;\"></span>\n</li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - All types | All conditions</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2024-08-23T11:06:04-07:00",
+    "handle": "alpha-3-2-reverse-twin-1",
+    "updated_at": "2025-08-13T15:13:34-07:00",
+    "published_at": "2024-10-14T15:50:36-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Fins: Alpha, Pivot, Speed Generating (10-7) Springy. Fluid. Responsive., Twin",
+    "variants": [
+      {
+        "id": 42684427927691,
+        "product_id": 7526646710411,
+        "title": "Default Title",
+        "price": "80.00",
+        "sku": "1405-322-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-08-23T11:06:04-07:00",
+        "updated_at": "2025-08-13T15:13:34-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 476,
+        "image_id": null,
+        "weight": 1.05,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9661853171851,
+        "product_id": 7526646710411,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 35283087097995,
+        "product_id": 7526646710411,
+        "position": 1,
+        "created_at": "2024-10-04T11:03:01-07:00",
+        "updated_at": "2024-10-04T11:03:02-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_alpha_reverse_3-2_twin_1_surfboard_fins_e67150d1-9bb6-4d21-9097-1548b2e6f828.jpg?v=1728064982",
+        "variant_ids": []
+      },
+      {
+        "id": 35283087130763,
+        "product_id": 7526646710411,
+        "position": 2,
+        "created_at": "2024-10-04T11:03:01-07:00",
+        "updated_at": "2024-10-04T11:03:03-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_alpha_reverse_3-2_twin_1_inside_surfboard_fins_dcebe798-1684-4ece-b99c-07bbb52722ec.jpg?v=1728064983",
+        "variant_ids": []
+      },
+      {
+        "id": 35461843812491,
+        "product_id": 7526646710411,
+        "position": 3,
+        "created_at": "2024-10-28T15:02:46-07:00",
+        "updated_at": "2024-10-28T15:02:47-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Reverse_3-2_closeup_website_shots_in-board.jpg?v=1730152967",
+        "variant_ids": []
+      },
+      {
+        "id": 35461843746955,
+        "product_id": 7526646710411,
+        "position": 4,
+        "created_at": "2024-10-28T15:02:46-07:00",
+        "updated_at": "2024-10-28T15:02:47-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Reverse_3-2_closeup_website_shots_cant.jpg?v=1730152967",
+        "variant_ids": []
+      },
+      {
+        "id": 35461843878027,
+        "product_id": 7526646710411,
+        "position": 5,
+        "created_at": "2024-10-28T15:02:46-07:00",
+        "updated_at": "2024-10-28T15:02:47-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Reverse_3-2_closeup_website_shots_toe.jpg?v=1730152967",
+        "variant_ids": []
+      },
+      {
+        "id": 35461843845259,
+        "product_id": 7526646710411,
+        "position": 6,
+        "created_at": "2024-10-28T15:02:46-07:00",
+        "updated_at": "2024-10-28T15:02:47-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Reverse_3-2_closeup_website_shots_scim_tip.jpg?v=1730152967",
+        "variant_ids": []
+      },
+      {
+        "id": 35461843779723,
+        "product_id": 7526646710411,
+        "position": 7,
+        "created_at": "2024-10-28T15:02:46-07:00",
+        "updated_at": "2024-10-28T15:02:47-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Reverse_3-2_closeup_website_shots_foil.jpg?v=1730152967",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 35283087097995,
+      "product_id": 7526646710411,
+      "position": 1,
+      "created_at": "2024-10-04T11:03:01-07:00",
+      "updated_at": "2024-10-04T11:03:02-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_alpha_reverse_3-2_twin_1_surfboard_fins_e67150d1-9bb6-4d21-9097-1548b2e6f828.jpg?v=1728064982",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "product": {
+    "id": 7131884978315,
+    "title": "Gerry Lopez Alpha 5-Fin",
+    "body_html": "<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span style=\"font-weight: 400;\">The Alpha line just got a new template, introducing the </span><span style=\"font-weight: 400;\">Gerry Lopez</span><span style=\"font-weight: 400;\"> Signature 5-fin. designed in collaboration with legendary surfer/shaper Gerry Lopez. This is a large sized fin in the Pivot template category. The Alpha line is constructed with recycled fishing combined with our C6 air-infused carbon. </span><span style=\"font-weight: 400;\">The 5-fin set is designed to be ridden as either a Thruster or Quad set-up, packaged together for more versatility throughout your quiver. </span></p>\n</div>\n</div>\n</div>\n</div>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Pivot (tight turns | quick)</span></li>\n<li>\n<span style=\"font-weight: 400;\"> Construction - </span><span style=\"font-weight: 400;\">Alpha (NetPlus)</span>\n</li>\n<li>\n<span style=\"font-weight: 400;\"> Ride Number - Balanced – 6.8 (tri) / 5.2</span><span style=\"font-weight: 400;\"> (quad)</span>\n</li>\n<li>Suggested Wave Type - Beach breaks | In the pocket</li>\n<li><span style=\"font-weight: 400;\"> Size - Large (165+ lbs)</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-weight: 400;\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/cJMtqoqSgsk\" height=\"315\" width=\"560\" allowfullscreen=\"\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" frameborder=\"0\"></iframe></span></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2023-04-27T14:44:47-07:00",
+    "handle": "gerry-lopez-alpha",
+    "updated_at": "2025-08-13T15:13:23-07:00",
+    "published_at": "2023-05-30T14:09:19-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "5 Fin, Balanced (7-4) All Around., Fins, Fins: Alpha, Large (165+ lbs) (75+ kgs), Neutral",
+    "variants": [
+      {
+        "id": 41424198828171,
+        "product_id": 7131884978315,
+        "title": "Default Title",
+        "price": "105.00",
+        "sku": "1023-343-50",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2023-04-27T14:44:47-07:00",
+        "updated_at": "2025-08-13T15:13:23-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 900,
+        "image_id": null,
+        "weight": 0.9,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9183932514443,
+        "product_id": 7131884978315,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 34238283546763,
+        "product_id": 7131884978315,
+        "position": 1,
+        "created_at": "2024-05-17T15:45:31-07:00",
+        "updated_at": "2024-05-17T15:45:38-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_GL_alpha_5-fin_surfboard_fins_3f2ae500-9e61-4f29-98f0-03ccea0a255e.jpg?v=1715985938",
+        "variant_ids": []
+      },
+      {
+        "id": 32287990481035,
+        "product_id": 7131884978315,
+        "position": 2,
+        "created_at": "2023-04-27T14:46:14-07:00",
+        "updated_at": "2024-05-17T15:45:38-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_gerry_lopez_alpha_inboard_thruster_surfboard_fins.jpg?v=1715985938",
+        "variant_ids": []
+      },
+      {
+        "id": 32287990284427,
+        "product_id": 7131884978315,
+        "position": 3,
+        "created_at": "2023-04-27T14:46:07-07:00",
+        "updated_at": "2024-05-17T15:45:38-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_gerry_lopez_alpha_inboard_quad_surfboard_fins.jpg?v=1715985938",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 34238283546763,
+      "product_id": 7131884978315,
+      "position": 1,
+      "created_at": "2024-05-17T15:45:31-07:00",
+      "updated_at": "2024-05-17T15:45:38-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_GL_alpha_5-fin_surfboard_fins_3f2ae500-9e61-4f29-98f0-03ccea0a255e.jpg?v=1715985938",
+      "variant_ids": []
+    }
+  }
+}

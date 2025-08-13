@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 7713593983115,
+    "title": "EN Reverse 3/2 Twin",
+    "body_html": "<p><span>The EN Reverse 3/2 Twin is designed to surf your favorite true twin board at full throttle. The “EN” twin template has been a trusted staple in the Futures lineup for many years. The \"Reverse 3/2\" refers to the twist in the foil, through the top third of the fin, that adds an additional 3 degrees of cant and 2 degrees less toe. The Reverse aspect is that the toe angle straightens only in the tip. This creates two separate foil surfaces, one at the base of the fin and one at the tip, that both feature Future's proprietary Vector foil. This unique foil keeps the fin engaged on rail, creating tons of drive, speed and grip. Pedal to the metal!</span></p>\n<p><span><strong>VECTOR FOIL</strong><br>Vector Foil = Speed Generating and locked in feel.</span><span><strong></strong></span></p>\n<p><span><strong>SCIMITAR TIP</strong><br>Scimitar Tip = Enhanced pivot and release.<br></span></p>\n<p><span><strong>CANT</strong><br>Cant at the fin base is 4 degrees, transitioning to 7 degrees at the tip = looser.<br></span></p>\n<p><span><strong>TOE</strong><br>Toe at the fin base is in respect to the box placement, transitioning to 2 degrees less at the tip = tight, engaged.<br></span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"><span>Suggested Wave Type - All types I All conditions</span></span></li>\n<li><span style=\"font-weight: 400;\">Construction - Fiberglass</span></li>\n<li><span style=\"font-weight: 400;\"><span>Speed Control</span></span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2025-04-22T12:36:43-07:00",
+    "handle": "en-reverse-3-2-twin",
+    "updated_at": "2025-08-13T15:13:37-07:00",
+    "published_at": "2025-06-24T14:49:15-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fiberglass, Fins, new, Speed Control (4-1) Solid. Engaged. Predictable., Twin",
+    "variants": [
+      {
+        "id": 43268129489035,
+        "product_id": 7713593983115,
+        "title": "Default Title",
+        "price": "150.00",
+        "sku": "1407-285-20",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-04-22T12:36:43-07:00",
+        "updated_at": "2025-08-13T15:13:37-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 408,
+        "image_id": null,
+        "weight": 0.9,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9884605055115,
+        "product_id": 7713593983115,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 37253548769419,
+        "product_id": 7713593983115,
+        "position": 1,
+        "created_at": "2025-04-22T12:39:03-07:00",
+        "updated_at": "2025-04-22T12:39:04-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_en_reverse_3-2_fiberglass_twin_surfboard_fins.jpg?v=1745350744",
+        "variant_ids": []
+      },
+      {
+        "id": 37253549981835,
+        "product_id": 7713593983115,
+        "position": 2,
+        "created_at": "2025-04-22T12:39:13-07:00",
+        "updated_at": "2025-04-22T12:39:15-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_en_reverse_3-2_fiberglass_twin_in-board_surfboard_fins.jpg?v=1745350755",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 37253548769419,
+      "product_id": 7713593983115,
+      "position": 1,
+      "created_at": "2025-04-22T12:39:03-07:00",
+      "updated_at": "2025-04-22T12:39:04-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_en_reverse_3-2_fiberglass_twin_surfboard_fins.jpg?v=1745350744",
+      "variant_ids": []
+    }
+  }
+}

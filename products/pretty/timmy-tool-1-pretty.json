@@ -1,0 +1,140 @@
+{
+  "product": {
+    "id": 7281606492299,
+    "title": "Timmy Fin Placement Tool",
+    "body_html": "<p style=\"font-weight: 400;\">We collaborated with San Clemente’s shaper and craftsman extraordinaire Timmy Patterson to bring the easiest and most accurate tool for setting the fin placement to the masses.  The Timmy Fin Placement Tool is designed to place markings on your shaped blank for thrusters, quads, 5-fins and twins.</p>\n<p>- 3.5\" for center fin<br>- 11\" for side fins<br>- 5.5\" for quad rears<br>- 9.5\" for twins</p>\n<p style=\"font-weight: 400;\">Used to mark the fins on boards of some of the world’s best surfers, you can trust this will be the last fin placement tool you ever need.</p>\n<p style=\"font-weight: 400;\"> <iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/WH00imHJnB4?si=-P-PXRN3z1R3WdpL\" height=\"315\" width=\"560\" allowfullscreen=\"\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" frameborder=\"0\"></iframe></p>\n<p style=\"font-weight: 400;\">Click the link below for usage instructions</p>\n<p><a href=\"https://cdn.shopify.com/s/files/1/0332/4362/7659/files/T-Patterson_placement_instructions_web.pdf?v=1713219068\" title=\"Fin Placement Instructions\" rel=\"noopener\" target=\"_blank\">Fin Placement Instructions</a></p>\n<p style=\"font-weight: 400;\"><br></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Board Builders",
+    "created_at": "2024-02-13T16:21:30-08:00",
+    "handle": "timmy-tool-1",
+    "updated_at": "2025-08-13T15:13:29-07:00",
+    "published_at": "2024-04-15T10:04:52-07:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Board Builders, Shaper Tools, Shaper Tools: Tools & Parts",
+    "variants": [
+      {
+        "id": 41945733398667,
+        "product_id": 7281606492299,
+        "title": "Default Title",
+        "price": "50.00",
+        "sku": "JIG-TIMMY FIN PLACEMENT TOOL",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2024-02-13T16:21:30-08:00",
+        "updated_at": "2025-08-13T15:13:29-07:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 1978,
+        "image_id": null,
+        "weight": 4.36,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9365045641355,
+        "product_id": 7281606492299,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 33634029961355,
+        "product_id": 7281606492299,
+        "position": 1,
+        "created_at": "2024-02-13T16:25:31-08:00",
+        "updated_at": "2024-02-13T16:25:32-08:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_Timmy_Tool_Shaper_Tools.jpg?v=1707870332",
+        "variant_ids": []
+      },
+      {
+        "id": 33994273423499,
+        "product_id": 7281606492299,
+        "position": 2,
+        "created_at": "2024-04-12T13:08:28-07:00",
+        "updated_at": "2024-04-12T13:08:30-07:00",
+        "alt": null,
+        "width": 6000,
+        "height": 3376,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/DSC08239.jpg?v=1712952510",
+        "variant_ids": []
+      },
+      {
+        "id": 33994273357963,
+        "product_id": 7281606492299,
+        "position": 3,
+        "created_at": "2024-04-12T13:08:28-07:00",
+        "updated_at": "2024-04-12T13:08:30-07:00",
+        "alt": null,
+        "width": 5933,
+        "height": 3338,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/DSC08251.jpg?v=1712952510",
+        "variant_ids": []
+      },
+      {
+        "id": 33994273587339,
+        "product_id": 7281606492299,
+        "position": 4,
+        "created_at": "2024-04-12T13:08:28-07:00",
+        "updated_at": "2024-04-12T13:08:31-07:00",
+        "alt": null,
+        "width": 6000,
+        "height": 3376,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/DSC08252.jpg?v=1712952511",
+        "variant_ids": []
+      },
+      {
+        "id": 33994273521803,
+        "product_id": 7281606492299,
+        "position": 5,
+        "created_at": "2024-04-12T13:08:28-07:00",
+        "updated_at": "2024-04-12T13:08:30-07:00",
+        "alt": null,
+        "width": 6000,
+        "height": 3376,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/DSC08257.jpg?v=1712952510",
+        "variant_ids": []
+      },
+      {
+        "id": 33994273620107,
+        "product_id": 7281606492299,
+        "position": 6,
+        "created_at": "2024-04-12T13:08:29-07:00",
+        "updated_at": "2024-04-12T13:08:31-07:00",
+        "alt": null,
+        "width": 6000,
+        "height": 3376,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/DSC08263.jpg?v=1712952511",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 33634029961355,
+      "product_id": 7281606492299,
+      "position": 1,
+      "created_at": "2024-02-13T16:25:31-08:00",
+      "updated_at": "2024-02-13T16:25:32-08:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_Timmy_Tool_Shaper_Tools.jpg?v=1707870332",
+      "variant_ids": []
+    }
+  }
+}

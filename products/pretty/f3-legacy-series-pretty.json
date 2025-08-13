@@ -1,0 +1,92 @@
+{
+  "product": {
+    "id": 6915886907531,
+    "title": "F3 Legacy Series",
+    "body_html": "<p><span style=\"font-weight: 400;\">The F3 Legacy Series is an xsmall sized thruster in the Neutral template category. </span><span style=\"font-weight: 400;\">The Honeycomb construction gives</span><span style=\"font-weight: 400;\"> a balanced feel for all-around performance</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Neutral (all-around | versatile)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Balanced – 5.8</span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - <meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">All types | All conditions</span></span></li>\n<li><span style=\"font-weight: 400;\"> Size - XSmall (75 - 105 lbs)</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-weight: 400;\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/W4YMSxJ2LDE\" height=\"315\" width=\"560\" allowfullscreen=\"\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" frameborder=\"0\"></iframe></span></p>\n<ul></ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-06-30T12:32:47-07:00",
+    "handle": "f3-legacy-series",
+    "updated_at": "2025-08-13T15:13:12-07:00",
+    "published_at": "2022-12-01T08:39:24-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Balanced (7-4) All Around., Fins, Honeycomb, Legacy Neutral, Neutral, Thruster, X-Small (75-105 lbs) (35-50 kgs)",
+    "variants": [
+      {
+        "id": 40502814376075,
+        "product_id": 6915886907531,
+        "title": "Default Title",
+        "price": "110.00",
+        "sku": "1063-182-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-06-30T12:32:47-07:00",
+        "updated_at": "2025-08-13T15:13:12-07:00",
+        "taxable": true,
+        "barcode": "815681025170",
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 8901599133835,
+        "product_id": 6915886907531,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 30168162533515,
+        "product_id": 6915886907531,
+        "position": 1,
+        "created_at": "2022-06-30T12:35:03-07:00",
+        "updated_at": "2022-06-30T12:35:04-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/legacy_neutral_xsmall.jpg?v=1656617704",
+        "variant_ids": []
+      },
+      {
+        "id": 30169105498251,
+        "product_id": 6915886907531,
+        "position": 2,
+        "created_at": "2022-06-30T15:10:51-07:00",
+        "updated_at": "2022-06-30T15:10:52-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/legacy_neutral_xsmall_in_board.jpg?v=1656627052",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 30168162533515,
+      "product_id": 6915886907531,
+      "position": 1,
+      "created_at": "2022-06-30T12:35:03-07:00",
+      "updated_at": "2022-06-30T12:35:04-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/legacy_neutral_xsmall.jpg?v=1656617704",
+      "variant_ids": []
+    }
+  }
+}

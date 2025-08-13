@@ -1,0 +1,80 @@
+{
+  "product": {
+    "id": 7055423275147,
+    "title": "Rasta Alpha Twin+1",
+    "body_html": "<p><span>The Rasta Twin+1, built in Alpha construction, features Futures’ V Foil, allowing for smooth rail to rail transitions. The upright design and Speed Generating foil will bring an added level of performance to any Twin + 1 board. With Rasta's positive ecological outlook on the environment, we are stoked to offer his template in the Alpha construction.</span><span></span></p>\n<p><span>Made in Huntington Beach, the Alpha product line combines Bureo's NetPlus recycled fishing nets with Futures' Compount 6 (C6) carbon and air infused technology.</span></p>\n<ul>\n<li>Construction - Alpha (NetPlus) <br>\n</li>\n</ul>\n<p><iframe width=\"474\" height=\"842\" src=\"https://www.youtube.com/embed/FttVo8lQfY8\" title=\"Alpha Construction | Rasta Signature Twin +1 #surf #surfing #fins\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe><br></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cJMtqoqSgsk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></p>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2022-12-07T15:05:02-08:00",
+    "handle": "rasta-alpha-twin-1",
+    "updated_at": "2025-08-13T15:13:19-07:00",
+    "published_at": "2022-12-13T11:04:02-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Fins, Fins: Alpha, Twin",
+    "variants": [
+      {
+        "id": 41115976892555,
+        "product_id": 7055423275147,
+        "title": "Default Title",
+        "price": "75.00",
+        "sku": "1527-342-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2022-12-07T15:05:03-08:00",
+        "updated_at": "2025-08-13T15:13:19-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 9088129138827,
+        "product_id": 7055423275147,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 34238264311947,
+        "product_id": 7055423275147,
+        "position": 1,
+        "created_at": "2024-05-17T15:41:20-07:00",
+        "updated_at": "2024-05-17T15:41:22-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_Rasta_alpha_twin_1_surfboard_fins.jpg?v=1715985682",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 34238264311947,
+      "product_id": 7055423275147,
+      "position": 1,
+      "created_at": "2024-05-17T15:41:20-07:00",
+      "updated_at": "2024-05-17T15:41:22-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/files/Futures_product_hero_image_Rasta_alpha_twin_1_surfboard_fins.jpg?v=1715985682",
+      "variant_ids": []
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "product": {
+    "id": 4539122843787,
+    "title": "DHD (L)",
+    "body_html": "<p><span style=\"font-weight: 400;\">The DHD Large, designed by Australian shaper Darren Handley of DHD Surfboards, is a honeycomb thruster in the Rake template category. The honeycomb construction offers a balanced flex pattern. The swept back shape provides more drive and hold through turns, ideal for a high-performance approach. </span></p>\n<p><span style=\"font-weight: 400;\">“Having worked with our elite team riders on this fin template for a number of years we are stoked to release a fin with Futures that will compliment our boards and improve your performance in the surf.” -Darren Handley</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> Template Category - Rake (drawn-out | drive)</span></li>\n<li><span style=\"font-weight: 400;\"> Construction - Honeycomb</span></li>\n<li><span style=\"font-weight: 400;\"> Ride Number - Balanced – 5.8</span></li>\n<li><span style=\"font-weight: 400;\">Suggested Wave Type - Open face | Point-break</span></li>\n<li><span style=\"font-weight: 400;\"> Size - Large (165+ lbs)</span></li>\n</ul>",
+    "vendor": "Futures Fins",
+    "product_type": "Fins",
+    "created_at": "2020-02-11T16:15:05-08:00",
+    "handle": "dhd-honeycomb-large",
+    "updated_at": "2025-08-13T15:12:20-07:00",
+    "published_at": "2019-11-12T11:52:48-08:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "Balanced (7-4) All Around., Fins, Honeycomb, Large (165+ lbs) (75+ kgs), Rake, Thruster",
+    "variants": [
+      {
+        "id": 32263930183819,
+        "product_id": 4539122843787,
+        "title": "Default Title",
+        "price": "130.00",
+        "sku": "1182-117-00",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2020-02-11T16:15:06-08:00",
+        "updated_at": "2025-08-13T15:12:20-07:00",
+        "taxable": true,
+        "barcode": "",
+        "grams": 386,
+        "image_id": null,
+        "weight": 0.85,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "price_currency": "USD",
+        "compare_at_price_currency": ""
+      }
+    ],
+    "options": [
+      {
+        "id": 5900938018955,
+        "product_id": 4539122843787,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 16030279205003,
+        "product_id": 4539122843787,
+        "position": 1,
+        "created_at": "2020-07-08T09:31:05-07:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_honeycomb_DHD_Large_surfboard_fins1.jpg?v=1594225868",
+        "variant_ids": []
+      },
+      {
+        "id": 14239174623371,
+        "product_id": 4539122843787,
+        "position": 2,
+        "created_at": "2020-02-11T16:15:06-08:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_product_hero_image_honeycomb_dhd_surfboard_fins.jpg?v=1594225868",
+        "variant_ids": []
+      },
+      {
+        "id": 14239174656139,
+        "product_id": 4539122843787,
+        "position": 3,
+        "created_at": "2020-02-11T16:15:06-08:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/futures_product_thumb_honeycomb_dhd_1.jpg?v=1594225868",
+        "variant_ids": []
+      },
+      {
+        "id": 14239174688907,
+        "product_id": 4539122843787,
+        "position": 4,
+        "created_at": "2020-02-11T16:15:06-08:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 3000,
+        "height": 2001,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/dhd-futures-pc-fin-conradpk-09456.jpg?v=1594225868",
+        "variant_ids": []
+      },
+      {
+        "id": 14239174721675,
+        "product_id": 4539122843787,
+        "position": 5,
+        "created_at": "2020-02-11T16:15:06-08:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 3000,
+        "height": 2001,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/dhd-futures-pc-fin-conradpk-09558.jpg?v=1594225868",
+        "variant_ids": []
+      },
+      {
+        "id": 15934509121675,
+        "product_id": 4539122843787,
+        "position": 6,
+        "created_at": "2020-06-15T15:04:47-07:00",
+        "updated_at": "2020-07-08T09:31:08-07:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/In_Board_Honeycomb_DHD_771e5931-f7d9-4954-8b75-e2a787909763.jpg?v=1594225868",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 16030279205003,
+      "product_id": 4539122843787,
+      "position": 1,
+      "created_at": "2020-07-08T09:31:05-07:00",
+      "updated_at": "2020-07-08T09:31:08-07:00",
+      "alt": null,
+      "width": 1400,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0332/4362/7659/products/Futures_product_hero_image_honeycomb_DHD_Large_surfboard_fins1.jpg?v=1594225868",
+      "variant_ids": []
+    }
+  }
+}
